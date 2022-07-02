@@ -8,6 +8,6 @@ tgcrypto
 aiofiles
 dnspython
 motor[srv]
-youtube-dl
+yt-dlp
 beautifulsoup4
 pyrogram==1.4.16
